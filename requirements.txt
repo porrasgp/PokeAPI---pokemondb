@@ -1,0 +1,8 @@
+# Dependencias del pipeline (Python 3.9+)
+requests>=2.31
+beautifulsoup4>=4.12
+pandas>=2.0
+matplotlib>=3.7
+
+# Para abrir y ejecutar el notebook
+jupyterlab>=4.0

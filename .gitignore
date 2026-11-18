@@ -1,0 +1,16 @@
+# Caché de la PokeAPI (se regenera sola)
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo / editores
+.DS_Store
+.vscode/
+.idea/
